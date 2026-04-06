@@ -1,3 +1,7 @@
+<!-- OPENVSX-FORK-NOTICE -->
+> **Note**: This is a community fork published to the [Open VSX Registry](https://open-vsx.org/) for use in VS Code-compatible editors like Cursor. The original extension is maintained at [SAP/code-snippet](https://github.com/SAP/code-snippet). All credit goes to the original authors. This fork contains no modifications beyond this notice. Please report any bugs or issues to the [upstream repository](https://github.com/SAP/code-snippet/issues).
+<!-- /OPENVSX-FORK-NOTICE -->
+
 [![CircleCI](https://circleci.com/gh/SAP/code-snippet.svg?style=svg)](https://circleci.com/gh/SAP/code-snippet)
 [![Coverage Status](https://coveralls.io/repos/github/SAP/code-snippet/badge.svg?branch=master)](https://coveralls.io/github/SAP/code-snippet?branch=master)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/SAP/code-snippet.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/SAP/code-snippet/context:javascript)
